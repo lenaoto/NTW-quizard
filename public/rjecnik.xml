@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rjecnik>
+
+<rijec><naziv>kuća</naziv><definicija>Građevina namijenjena stanovanju.</definicija></rijec>
+<rijec><naziv>prozor</naziv><definicija>Otvor na zidu koji propušta svjetlost.</definicija></rijec>
+<rijec><naziv>vrata</naziv><definicija>Pokretni dio zida za ulazak i izlazak.</definicija></rijec>
+<rijec><naziv>stol</naziv><definicija>Komad namještaja s ravnom površinom.</definicija></rijec>
+<rijec><naziv>stolica</naziv><definicija>Namještaj za sjedenje.</definicija></rijec>
+
+<rijec><naziv>knjiga</naziv><definicija>Tiskano ili pisano djelo.</definicija></rijec>
+<rijec><naziv>olovka</naziv><definicija>Predmet za pisanje.</definicija></rijec>
+<rijec><naziv>papir</naziv><definicija>Tanki materijal za pisanje ili tiskanje.</definicija></rijec>
+<rijec><naziv>bilježnica</naziv><definicija>Knjiga praznih listova za pisanje.</definicija></rijec>
+<rijec><naziv>škola</naziv><definicija>Ustanova za obrazovanje.</definicija></rijec>
+
+<rijec><naziv>učitelj</naziv><definicija>Osoba koja poučava.</definicija></rijec>
+<rijec><naziv>učenik</naziv><definicija>Osoba koja pohađa školu.</definicija></rijec>
+<rijec><naziv>znanje</naziv><definicija>Skup naučenih informacija.</definicija></rijec>
+<rijec><naziv>pitanje</naziv><definicija>Izjava kojom se traži odgovor.</definicija></rijec>
+<rijec><naziv>odgovor</naziv><definicija>Reakcija na postavljeno pitanje.</definicija></rijec>
+
+<rijec><naziv>dan</naziv><definicija>Razdoblje od izlaska do zalaska sunca.</definicija></rijec>
+<rijec><naziv>noć</naziv><definicija>Razdoblje tame između dana.</definicija></rijec>
+<rijec><naziv>jutro</naziv><definicija>Početni dio dana.</definicija></rijec>
+<rijec><naziv>večer</naziv><definicija>Završni dio dana.</definicija></rijec>
+<rijec><naziv>vrijeme</naziv><definicija>Trajanje događaja ili stanje atmosfere.</definicija></rijec>
+
+<rijec><naziv>sunce</naziv><definicija>Zvijezda u središtu Sunčevog sustava.</definicija></rijec>
+<rijec><naziv>kiša</naziv><definicija>Padaline u obliku kapljica.</definicija></rijec>
+<rijec><naziv>snijeg</naziv><definicija>Padaline u obliku ledenih kristala.</definicija></rijec>
+<rijec><naziv>vjetar</naziv><definicija>Kretanje zraka u atmosferi.</definicija></rijec>
+<rijec><naziv>oblak</naziv><definicija>Nakupina kapljica vode u zraku.</definicija></rijec>
+
+<rijec><naziv>more</naziv><definicija>Velika slana vodena površina.</definicija></rijec>
+<rijec><naziv>rijeka</naziv><definicija>Prirodni vodeni tok.</definicija></rijec>
+<rijec><naziv>jezero</naziv><definicija>Stajaća vodena površina.</definicija></rijec>
+<rijec><naziv>planina</naziv><definicija>Visoko uzvišenje reljefa.</definicija></rijec>
+<rijec><naziv>dolina</naziv><definicija>Nizak prostor između uzvišenja.</definicija></rijec>
+
+<rijec><naziv>šuma</naziv><definicija>Područje obraslo drvećem.</definicija></rijec>
+<rijec><naziv>drvo</naziv><definicija>Biljka s drvenastim deblom.</definicija></rijec>
+<rijec><naziv>cvijet</naziv><definicija>Reproduktivni dio biljke.</definicija></rijec>
+<rijec><naziv>trava</naziv><definicija>Niska zelena biljka.</definicija></rijec>
+<rijec><naziv>list</naziv><definicija>Plosnati dio biljke.</definicija></rijec>
+
+<rijec><naziv>pas</naziv><definicija>Domaća životinja, čovjekov prijatelj.</definicija></rijec>
+<rijec><naziv>mačka</naziv><definicija>Domaća životinja, lovac na glodavce.</definicija></rijec>
+<rijec><naziv>ptica</naziv><definicija>Životinja koja ima perje i krila.</definicija></rijec>
+<rijec><naziv>riba</naziv><definicija>Vodena životinja s perajama.</definicija></rijec>
+<rijec><naziv>konj</naziv><definicija>Snažna domaća životinja.</definicija></rijec>
+
+</rjecnik>
