@@ -130,8 +130,8 @@ $canSeeMap = $isLoggedIn || $isGuest;
       <p>
         <i class="bi bi-github icon me-2"></i>
         GitHub:
-        <a href="https://github.com/lenaoto/quizard" target="_blank">
-          github.com/yourusername/quizard
+        <a href="https://github.com/lenaoto/NTW-quizard" target="_blank">
+          github.com/lenaoto/quizard
         </a>
       </p>
 

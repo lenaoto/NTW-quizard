@@ -47,7 +47,7 @@ function http_get_json(string $url): array {
     if (is_array($data)) return $data;
   }
 
-  // 2) fallback na cURL (ako postoji)
+
   if (function_exists('curl_init')) {
     $ch = curl_init($url);
     curl_setopt_array($ch, [

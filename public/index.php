@@ -195,7 +195,6 @@ if ($isLoggedIn) {
 <?php endif; ?>
 
 
-<!-- Trivia dana -->
 <div class="container py-2">
   <div class="card-soft p-4 text-center shadow-sm">
     <h3 class="h4 section-title mb-2">Trivia dana</h3>
@@ -208,7 +207,6 @@ if ($isLoggedIn) {
   </div>
 </div>
 
-<!-- Hrvatski rječnik -->
 <div class="container py-4">
   <div class="card-soft p-4 text-center shadow-sm">
     <h3 class="h4 section-title mb-2">Hrvatski rječnik</h3>
@@ -227,7 +225,7 @@ if ($isLoggedIn) {
   </div>
 </div>
 
-<!-- Testimonials -->
+
 <section class="py-5 bg-light">
   <div class="container">
     <h2 class="text-center mb-5 fw-bold">Što korisnici kažu</h2>

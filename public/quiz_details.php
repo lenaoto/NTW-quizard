@@ -129,7 +129,9 @@ ORDER BY c.created_at DESC");
         <select name="rating" class="form-select" required>
           <option value="">Označi ocjenu</option>
           <?php for ($i = 1; $i <= 5; $i++): ?>
-            <option value="<?= $i ?>"><?= $i ?> Zvjezdica<?= $i > 1 ? 's' : '' ?></option>
+            <option value="<?= $i ?>">
+  <?= $i ?> <?= $i == 1 ? 'Zvjezdica' : 'Zvjezdice' ?>
+</option>
           <?php endfor; ?>
         </select>
       </div>
